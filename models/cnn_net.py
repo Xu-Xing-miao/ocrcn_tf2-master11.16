@@ -52,7 +52,7 @@ def build_net_003(input_shape, n_classes):
 def build_net_004():
     model = tf.keras.Sequential([
 
-
+ssdd
 
     ])
     return model
