@@ -1,0 +1,6 @@
+.vscode/
+checkpoints/
+.idea/
+
+# Project exclude paths
+/venv/
