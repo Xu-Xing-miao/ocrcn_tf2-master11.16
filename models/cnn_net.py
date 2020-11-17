@@ -47,14 +47,8 @@ def build_net_003(input_shape, n_classes):
         layers.Dense(n_classes, activation='softmax')
     ])
     return model
+f
 
-# this model is
-def build_net_004():
-    model = tf.keras.Sequential([
-
-你好
-    ])
-    return model
 
 # some models wrapped into tf.keras.Model
 class CNNNet(tf.keras.Model):
